@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./radkit_leaderboard.png" style="width: 200px;" alt="Cisco RADKit" /></br>
+  <img src="./radkit_leaderboard_.png" alt="Cisco RADKit" /></br>
 </p>
 
 # 🌟 RADKit Community Leaderboard
@@ -15,9 +15,7 @@ Recognizing the developers who are building the RADKit ecosystem
 
 | Rank | Contributor | Challenges Completed | Featured Repository | Recognition |
 |------|-------------|----------------------|---------------------|-------------|
-| 🥇 1 | — | — | — | — |
-| 🥈 2 | — | — | — | — |
-| 🥉 3 | — | — | — | — |
+| 🥇 1 | [@ponchotitlan](https://github.com/ponchotitlan) | **RADKit in the Wild** | [radkit-to-grafana-dash](https://github.com/Cisco-RADKit/radkit-to-grafana-dash) | 🌱 |
 
 *The leaderboard will be populated as the first challenge submissions are accepted.*
 
@@ -27,7 +25,7 @@ Recognizing the developers who are building the RADKit ecosystem
 
 | Contributor | Challenge | Repository | Accepted Date |
 |-------------|-----------|------------|---------------|
-| — | — | — | — |
+| [@ponchotitlan](https://github.com/ponchotitlan) | **RADKit in the Wild** | [radkit-to-grafana-dash](https://github.com/Cisco-RADKit/radkit-to-grafana-dash) | 09-04-2026 |
 
 ---
 

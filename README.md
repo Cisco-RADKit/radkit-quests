@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./radkit_quests.png" style="width: 200px;" alt="Cisco RADKit" /></br>
+  <img src="./radkit_quests_.png" alt="Cisco RADKit" /></br>
 </p>
 
 # 🧙🏽‍♂️ RADKit Quests Series
@@ -11,7 +11,7 @@ tackle real-world automation topics, share their solutions, and get recognized f
 
 ## How It Works
 
-1. **Browse** the [open challenges](#-open-challenges) below.
+1. **Browse** the [open quests](#-open-quests) below.
 2. **Build** a repository that addresses the challenge topic.
 3. **Submit** by following the standard 
 [Contributing Guide](https://wwwin-github.cisco.com/alfsando/how_to_radkit).
@@ -91,34 +91,11 @@ and automatically remediate any deviations from the desired state.
 
 ---
 
-### 📦 Quest #004, Containerised RADKit for Air-Gapped Deployments
-**Category**: Infrastructure  
-**Difficulty**: ⭐⭐⭐⭐⭐  
-**Status**: 🟢 Open  
-**Deadline**: December 31, 2026
-
-**Description**:  
-Build a minimal, production-ready container image that packages RADKit and all required 
-dependencies for use in air-gapped or restricted environments. The image must be self-contained, 
-avoid external runtime dependencies, and be suitable for offline deployment in secure network 
-operations contexts.
-
-**Acceptance Criteria**:
-- [ ] Image is built from a minimal base (e.g., `distroless`, `alpine`, or `scratch`)
-- [ ] All dependencies vendored or baked in, no internet access required at runtime
-- [ ] Image size is justified and kept as small as reasonably achievable
-- [ ] Dockerfile and build instructions included in the repository
-- [ ] Documented approach for transferring the image into an air-gapped environment (e.g., `docker save`/`load`)
-- [ ] At least one end-to-end usage example demonstrating RADKit running inside the container
-- [ ] README with setup, run instructions, and known limitations
-
----
-
 ## ✅ Closed Quests
 
 | # | Title | Winner | Repository |
 |---|-------|--------|------------|
-| - | No closed challenges yet | - | - |
+| - | No closed quests yet | - | - |
 
 ---
 
@@ -126,7 +103,7 @@ operations contexts.
 
 Before submitting, make sure your project:
 
-- [ ] Is relevant to the challenge topic
+- [ ] Is relevant to the quest topic
 - [ ] Includes a clear `README.md` with setup and run instructions
 - [ ] Specifies the RADKit SDK version it was tested against
 - [ ] Has a `LICENSE` file (Apache 2.0 recommended)
