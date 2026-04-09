@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./radkit_leaderboard_.gif" style="width: 300px;" alt="Cisco RADKit" /></br>
+  <img src="./radkit_leaderboard_.gif"  alt="Cisco RADKit" /></br>
 </p>
 
 # 🌟 RADKit Community Leaderboard
